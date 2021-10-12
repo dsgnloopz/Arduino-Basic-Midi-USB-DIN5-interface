@@ -10,7 +10,7 @@ im leaving this simple as this is the way i need it to work for my project. it w
 theres a lot of different usage cases for this code, ive used it for example on having two diferent midi in/out combos, also as midi through plus usb midi....it depends most on what you need. just keep in mind you now have 2 serial ports on your uno. so I hope its usefull for you and have fun with midi!
 
 
-// This Code was wrtten By DSGN Loopz, use it, modify it, distribute it and enjoy it as you need
+// This Code was written By DSGN Loopz, use it, modify it, distribute it and enjoy it as you need
 // consider leaving this statement here as a credit to the author
 // @dsgnloopz  ------  @desgeneradotv follow me if this was helpfull for you. that will be really helpfull for supporting my work
 // and keep yourself updated with my projects
